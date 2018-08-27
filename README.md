@@ -1,1 +1,1 @@
-Screenshot yandex maps web page
+Screenshot yandex maps web page using puppeteer
