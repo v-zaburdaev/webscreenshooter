@@ -1,0 +1,1 @@
+Screenshot yandex maps web page
